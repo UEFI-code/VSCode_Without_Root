@@ -9,8 +9,11 @@ How the **FUCK** does an editor need root / sudo to install?!
 The VS Code maintainers give us a **FUCKING REASON** why they need root:
 
 > `Register an apt repo`
+
 > `Install the Microsoft signing key`
+
 > `Update alternatives`
+
 > `Install a bunch of things into /usr (vscode, bin command, desktop entry)`
 
 https://github.com/microsoft/vscode/issues/25037
